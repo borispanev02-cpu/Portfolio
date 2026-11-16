@@ -78,7 +78,7 @@ body{
     gap: 3%;
     background-color: var(--backgroundgray);
     width: 30%;
-    height: 175vh;
+    height: 185vh;
     border:#e9c664 5px solid;
     padding: 30px;
 }
